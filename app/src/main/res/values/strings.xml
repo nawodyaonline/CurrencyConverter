@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="hello_android">Hello Android!</string>
+    <string name="converter_image">Converter image</string>
+    <string name="textview_attribute">Enter the value of USD to convert</string>
+    <string name="amount_in_usd">Amount in USD</string>
+    <string name="button">Button</string>
+    <string name="VuttonCloseText">Close</string>
+</resources>
